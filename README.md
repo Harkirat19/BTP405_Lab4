@@ -1,2 +1,10 @@
-# RUN the POST method
-curl -d '{"key":"value"}' -H "Content-Type: application/json" -X POST http://localhost:8000
+# BTP405: Activity 4
+
+Name: Harkirat Singh
+Section: NCC
+St. ID: 100447226
+
+
+Output: 
+
+![Output](image.png)
